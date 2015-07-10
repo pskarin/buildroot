@@ -1,0 +1,4 @@
+config BR2_PACKAGE_PYTHON_WRAPT
+	bool "python-wrapt"
+	help
+	  A Python module for decorators, wrappers and monkey patching.
