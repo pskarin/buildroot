@@ -1,0 +1,4 @@
+config BR2_PACKAGE_PYTHON_RPCUDP
+	bool "python-rpcudp"
+	help
+	  RPC via UDP

@@ -1,0 +1,4 @@
+config BR2_PACKAGE_PYTHON_INFIPYUTILS
+	bool "python-infipyutils"
+	help
+	  Misc. pure-python utilities

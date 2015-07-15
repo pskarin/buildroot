@@ -1,0 +1,4 @@
+config BR2_PACKAGE_PYTHON_UMSGPACK
+	bool "python-umsgpack"
+	help
+	  A portable, lightweight MessagePack serializer and deserializer written in pure Python.

@@ -1,0 +1,5 @@
+config BR2_PACKAGE_PYTHON_EMPORT
+	bool "python-emport"
+	help
+	  mport is a small utility library for importing files by file name. It
+	  exposed a single function, import_file(filename).
