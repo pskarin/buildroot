@@ -1,6 +1,6 @@
 #
 # Automatically generated file; DO NOT EDIT.
-# Buildroot 2015.08-git-00390-gad13b84-dirty Configuration
+# Buildroot 2015.08-git-00393-g37b545e-dirty Configuration
 #
 BR2_HAVE_DOT_CONFIG=y
 
@@ -811,6 +811,7 @@ BR2_PACKAGE_QT5_JSCORE_AVAILABLE=y
 # Interpreter languages and scripting
 #
 BR2_PACKAGE_CALVIN=y
+BR2_PACKAGE_CALVIN_DEV=y
 # BR2_PACKAGE_ENSCRIPT is not set
 # BR2_PACKAGE_ERLANG is not set
 # BR2_PACKAGE_GUILE is not set
