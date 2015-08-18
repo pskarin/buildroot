@@ -21,9 +21,9 @@ define CALVIN_INSTALL_TARGET_CMDS
 	rsync -a $(@D)/ $(TARGET_DIR)/root/calvin/
 endef
 
-ifeq ($(BR2_PACKAGE_CALVIN_DEV),y)
+#ifeq ($(BR2_PACKAGE_CALVIN_DEV),y)
 $(eval $(generic-package))
-else
-$(eval $(python-package))
-endif
+#else
+#$(eval $(python-package))
+#endif
 

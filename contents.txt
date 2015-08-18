@@ -1,0 +1,31 @@
+Buildroot base packages
+----------------------------
+Python 		- Calvin language
+git    		- To get Calvin sources
+libcurl		- For git http(s) support
+libopenssl	- For git (curl) https support
+CACertificates	- For certificate verification (for example fetching from github)
+
+Updated python packages
+-----------------------------
+python-requests
+python-twisted
+
+New packages
+-----------------------------
+python-colorlog
+python-infitraceback
+python-kademlia
+python-mock
+python-ply
+python-pytest
+python-wrapt
+
+python-nose
+python-infipyutils
+python-infiexceptools
+python-rpcudp
+python-emport
+python-six
+python-u_msgpack_python
+
