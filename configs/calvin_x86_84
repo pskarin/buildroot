@@ -1,6 +1,6 @@
 #
 # Automatically generated file; DO NOT EDIT.
-# Buildroot 2015.08-git-00394-gbafb7e9-dirty Configuration
+# Buildroot 2015.08-git-00395-gf868de9 Configuration
 #
 BR2_HAVE_DOT_CONFIG=y
 
@@ -832,8 +832,8 @@ BR2_PACKAGE_MONO_ARCH_SUPPORTS=y
 # BR2_PACKAGE_PHP is not set
 BR2_PACKAGE_PYTHON=y
 # BR2_PACKAGE_PYTHON_PY_ONLY is not set
-# BR2_PACKAGE_PYTHON_PYC_ONLY is not set
-BR2_PACKAGE_PYTHON_PY_PYC=y
+BR2_PACKAGE_PYTHON_PYC_ONLY=y
+# BR2_PACKAGE_PYTHON_PY_PYC is not set
 
 #
 # core python modules
