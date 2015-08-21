@@ -4,7 +4,7 @@
 #
 ################################################################################
 
-CALVIN_VERSION = 0.0.1
+CALVIN_VERSION = 0.2.0
 CALVIN_SOURCE = calvin-$(CALVIN_VERSION).tar.gz
 CALVIN_SITE = http://skarin.mooo.com/
 CALVIN_LICENSE = Apache License Version 2

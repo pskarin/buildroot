@@ -4,7 +4,7 @@
 #
 ################################################################################
 
-PYTHON_PLY_VERSION = 3.4
+PYTHON_PLY_VERSION = 3.6
 PYTHON_PLY_SOURCE = ply-$(PYTHON_PLY_VERSION).tar.gz
 PYTHON_PLY_SITE = http://pypi.python.org/packages/source/p/ply
 PYTHON_PLY_SETUP_TYPE = setuptools

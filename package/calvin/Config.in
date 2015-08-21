@@ -16,6 +16,7 @@ config BR2_PACKAGE_CALVIN
 	select BR2_PACKAGE_PYTHON_SIX
 	select BR2_PACKAGE_PYTHON_UMSGPACK
 	select BR2_PACKAGE_PYTHON_PY
+	select BR2_PACKAGE_PYTHON_SERIAL
 	select BR2_PACKAGE_CA_CERTIFICATES
 	help
 	  Calvin distributed execution environment
