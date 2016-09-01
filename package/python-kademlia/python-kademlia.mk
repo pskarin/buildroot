@@ -4,7 +4,7 @@
 #
 ################################################################################
 
-PYTHON_KADEMLIA_VERSION = 0.4
+PYTHON_KADEMLIA_VERSION = 0.5
 PYTHON_KADEMLIA_SOURCE = kademlia-$(PYTHON_KADEMLIA_VERSION).tar.gz
 PYTHON_KADEMLIA_SITE = http://pypi.python.org/packages/source/k/kademlia
 PYTHON_KADEMLIA_SETUP_TYPE = setuptools

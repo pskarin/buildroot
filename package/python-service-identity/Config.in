@@ -1,0 +1,4 @@
+config BR2_PACKAGE_PYTHON_SERVICE_IDENTITY
+	bool "python-service-identity"
+	help
+	  Service identity verification for pyOpenSSL.

@@ -1,0 +1,4 @@
+config BR2_PACKAGE_PYTHON_PASSLIB
+	bool "python-passlib"
+	help
+	  Comprehensive password hashing framework supporting over 30 schemes

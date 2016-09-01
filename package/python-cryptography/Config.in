@@ -1,0 +1,4 @@
+config BR2_PACKAGE_PYTHON_CRYPTOGRAPHY
+	bool "python-cryptogaphy"
+	help
+	  I think you meant "cryptography"

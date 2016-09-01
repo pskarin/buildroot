@@ -1,0 +1,5 @@
+config BR2_PACKAGE_PYTHON_OPENSSL
+	bool "python-openssl"
+	select BR2_PACKAGE_LIBFFI
+	help
+	  Python wrapper module around the OpenSSL library
