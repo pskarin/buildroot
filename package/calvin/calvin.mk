@@ -4,9 +4,9 @@
 #
 ################################################################################
 
-CALVIN_VERSION = 0.2.0
-CALVIN_SOURCE = calvin-$(CALVIN_VERSION).tar.gz
-CALVIN_SITE = http://skarin.mooo.com/
+CALVIN_VERSION = 0.6.1
+CALVIN_SOURCE = Release-$(CALVIN_VERSION).tar.gz
+CALVIN_SITE = https://github.com/EricssonResearch/calvin-base/archive/
 CALVIN_LICENSE = Apache License Version 2
 CALVIN_LICENSE_FILES = LICENSE
 
